@@ -24,7 +24,7 @@ To run this application on your local machine, make sure you have Flutter instal
 2. Navigate to the project directory:
 
    ```bash
-   cd flutter-sqflite-todo-app
+   cd flutter_sqflite_orm_r_d
    ```
 
 3. Install the dependencies:
