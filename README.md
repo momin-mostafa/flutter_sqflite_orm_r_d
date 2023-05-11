@@ -18,7 +18,7 @@ To run this application on your local machine, make sure you have Flutter instal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flutter-sqflite-todo-app.git
+   git clone https://github.com/momin-mostafa/flutter_sqflite_orm_r_d.git
    ```
 
 2. Navigate to the project directory:
