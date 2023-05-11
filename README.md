@@ -79,4 +79,4 @@ This application was inspired by the TodoMVC project and utilizes the following 
 
 ## Contact
 
-For any inquiries or questions, please contact [your-email@example.com](mailto:mominmostafa.g@outlook.com).
+For any inquiries or questions, please contact [mominmostafa.g@outlook.com](mailto:mominmostafa.g@outlook.com).
